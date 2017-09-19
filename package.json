@@ -1,8 +1,8 @@
 {
-  "name": "voorhees",
+  "name": "jsonvoorhees",
   "version": "1.0.0",
   "description": "A simple node app to save the filename of a piped stream and output it as part of a JSON object in a file",
-  "main": "voorhees.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
